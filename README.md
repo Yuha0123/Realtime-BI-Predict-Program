@@ -4,6 +4,9 @@
 ![Realtime_BI_Predict_Program](https://user-images.githubusercontent.com/44527599/120924362-68ffdb80-c70e-11eb-8089-a8b64cf23ba1.png)
 
 본 프로그램은 웹 카메라로 사람의 얼굴 영상을 실시간으로 찍어 해당 영상을 통해 심박수, 호흡수, 스트레스 지수를 예측하는 프로그램입니다.
+
+![graph](https://user-images.githubusercontent.com/44527599/120925127-132d3280-c712-11eb-938b-afa0eba8b7f0.png)
+
 특히 딥러닝을 이용하여 rPPG 및 remote Respiration 신호를 동시에 예측하고, 이를 실시간 그래프로 보여줍니다. 
 
 
