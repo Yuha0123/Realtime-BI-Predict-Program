@@ -19,6 +19,9 @@
 4. 만약 로지텍 웹캠을 이용하실 경우, 프로그램 실행 전 Logitech capture를 실행해주시기 바랍니다.
 5. 만약 외부 카메라를 사용하실 경우, RealTime_BI_Predict_Program.py의 68 줄의 
    cap = cv2.VideoCapture(카메라 번호)를 설정해주시길 바랍니다.
+6. dlib의 face detector를 사용하기 위해 실행 프로그램의 같은 폴더에 shape_predictor_68_face_landmarks.dat을 넣어주시기 바랍니다.
+(reference site: https://github.com/davisking/dlib-models)
+
 
 
 * It is just for research purpose, and commercial use is not allowed!!
