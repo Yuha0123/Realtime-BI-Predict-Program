@@ -1,0 +1,7 @@
+numpy
+opencv-python
+heartpy
+keyboard
+pynput
+keras
+tensorflow == 2.5.0
