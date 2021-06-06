@@ -1,3 +1,5 @@
+######  It is just for research purpose, and commercial use is not allowed!! ######
+
 import numpy as np
 import cv2
 from multiprocessing import Process, Queue, Manager, Value
